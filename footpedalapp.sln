@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "footpedalapp", "footpedalapp.csproj", "{7DDE16F3-8AAD-6329-46E3-7224E7A617AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DDE16F3-8AAD-6329-46E3-7224E7A617AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDE16F3-8AAD-6329-46E3-7224E7A617AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDE16F3-8AAD-6329-46E3-7224E7A617AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDE16F3-8AAD-6329-46E3-7224E7A617AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7612B63B-A352-4EC7-BF4F-02CFB6FDB662}
+	EndGlobalSection
+EndGlobal

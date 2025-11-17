@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zv4dXfmR1c=",
+  "success": true,
+  "projectFilePath": "G:\\dotnet\\footpedalapp\\footpedalapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mark\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
